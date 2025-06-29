@@ -77,9 +77,8 @@ Think of dockerfile like a recipe, image is the pre-pared food (frozen one) made
 
 ### Docker Architecture
 
-
-
 This diagram illustrates how developers create Dockerfiles to build Docker images, which are then pushed to Docker Hub. Later, different environments (e.g., staging, testing) pull these images and run them as containers.
+
 ![Docker Architecture](https://miro.medium.com/v2/resize:fit:1400/0*SPCr5zXp8jw9Mfk8.png)
 ---
 
